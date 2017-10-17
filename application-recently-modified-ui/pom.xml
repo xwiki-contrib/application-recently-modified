@@ -3,11 +3,11 @@
   <parent>
     <artifactId>application-recently-modified</artifactId>
     <groupId>org.xwiki.contrib</groupId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>application-recently-modified-ui</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>xar</packaging>
   <name>Recently Modified Application - UI</name>
   <description>Add an helper to see recent modifications concerning pages in the wiki.</description>
