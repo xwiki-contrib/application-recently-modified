@@ -34,8 +34,8 @@
   <artifactId>application-recently-modified</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Recently Modified Application</name>
-  <description>Add an helper to see recent modifications in the wiki</description>
+  <name>Recently Modified Application - Parent POM</name>
+  <description>Add an helper to see recent modifications concerning pages in the wiki.</description>
   <properties>
     <platform.version>${commons.version}</platform.version>
   </properties>
